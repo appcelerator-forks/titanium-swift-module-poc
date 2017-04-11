@@ -1,0 +1,4 @@
+module SwiftTitanium [system] {
+    header "/Users/hknoechel/Library/Application Support/Titanium/mobilesdk/osx/6.0.3.GA/iphone/include/TiModule.h"
+    export *
+}
